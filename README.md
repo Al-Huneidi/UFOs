@@ -22,7 +22,11 @@ Add additional filters with which to interact to enable users the ability to fil
 
 ### Objectives
 	- 1. Create, update, and deploy JavaScript functions to provide additional table filters.
+		- Add five filters based on columns headers:
+			Date | City | State | Country | Shape
+	
 	- 2. Update and deploy forEach (for loop) to loop through the filters and update them with user input.
+	
 	- 3. Update and populate the dynamic filters and table using JavaScript and HTML.
 
 Image of completed table:
