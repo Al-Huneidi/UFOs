@@ -10,6 +10,10 @@ Create dynamic content by organizing UFO data that is stored as a JavaScript arr
 	- 4. Customize my webpage using Bootstrap.
 	- 5. Equip the table with several fully functional filters that will allow users to interact with the visualizations.
 
+Resources: 
+nasa.jpg
+data.js
+
 Image of completed table:
 
 ![alt text](https://github.com/Al-Huneidi/UFOs/blob/master/Screenshots/Interactive%20UFO%20web%20page.png)
