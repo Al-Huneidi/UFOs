@@ -31,3 +31,7 @@ Add additional filters with which to interact to enable users the ability to fil
 
 Image of completed table:
 
+![alt text](https://github.com/Al-Huneidi/UFOs/blob/master/Screenshots/Challenge.png)
+
+Suggested additional analysis:
+I recommend including analyzing the data to find the total number of UFO sitings per country, per state, per city, per shape.  I think the Ufologists would find that to be very insighful information.
